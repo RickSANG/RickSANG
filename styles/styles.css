@@ -15,7 +15,7 @@ p {
 }
 
 .portrait {
-    width: 200px; /* 设置图片宽度 */
+    width: 300px; /* 设置图片宽度 */
     height: auto; /* 高度自动调整以保持比例 */
     display: block;
     margin: 10px 0;
