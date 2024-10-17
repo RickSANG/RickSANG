@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+p {
+    margin: 0 0 1em;
+}
+
+.portrait {
+    width: 200px; /* 设置图片宽度 */
+    height: auto; /* 高度自动调整以保持比例 */
+    display: block;
+    margin: 10px 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.formula {
+    margin: 20px 0;
+}
+
+.payment {
+    width: 250px; /* 设置图片宽度 */
+    height: auto; /* 高度自动调整以保持比例 */
+    display: inline-block; /* 使图片横向并列 */
+    margin: 10px; /* 设置图片之间的间距 */
+}
