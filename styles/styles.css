@@ -38,3 +38,7 @@ footer {
     display: inline-block; /* 使图片横向并列 */
     margin: 10px; /* 设置图片之间的间距 */
 }
+.small-strikethrough {
+    font-size: 0.5em; /* 设置小字 */
+    text-decoration: line-through; /* 设置删除线 */
+}
